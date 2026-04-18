@@ -1,1 +1,10 @@
-{}
+{
+  "article": {
+    "title": "Bienvenue sur Flash News",
+    "author": "Par l'équipe flash",
+    "content": "Ceci est un exemple d'article démontrant les fonctionnalités d'internationalisation de la plateforme. Vous pouvez basculer entre différentes langues en utilisant le sélecteur de langue."
+  },
+  "nav": {
+    "switch_language": "Changer de langue"
+  }
+}
